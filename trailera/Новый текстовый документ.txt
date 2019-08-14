@@ -1,0 +1,38 @@
+	<header>
+		<div class="container">
+			<div class="top-line">
+			 <img src="img/head-logo.png" alt="" class="head-logo">
+			 	<nav>
+			 		<ul class="menu">
+			 			<li>
+			 				<a href="index.html">Главная</a>
+			 			</li>
+			 			<li>
+			 				<a href="#">Жанры</a>
+			 			</li>
+			 			<li>
+			 				<a href="#">Контакты</a>
+			 			</li>
+			 		</ul>
+			 	</nav>
+			</div>
+		</div>
+		<div>
+
+		</div>
+	</header>
+	<section>
+		<div class="container">
+			
+		</div>
+	</section>
+	<section>
+		<div class="container">
+			
+		</div>
+	</section>
+	<footer>
+		<div class="container">
+			
+		</div>
+	</footer>

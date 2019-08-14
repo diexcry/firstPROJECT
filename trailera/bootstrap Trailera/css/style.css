@@ -1,0 +1,87 @@
+img {
+	max-width: 100%
+	height: auto;	
+}
+.container-fluid {
+	padding: 0px;
+	background-color: #23282b; 
+}
+.nav-item {
+	font-size: 20px;
+	padding: 0;
+}
+
+.d-flex{
+	padding: 0 20px 0 50px;
+	margin: 0 auto;	
+}
+
+.hello-block{
+	font-size: 20px;
+	padding: 25px 0 0 0;
+}
+
+.head-center-block {
+	width: 1000px;
+    margin: 0 auto;
+    text-align: left;	
+}
+
+i {
+	color: 	red;
+	font-style: italic;
+}
+
+.navbar-nav {
+	
+}
+
+.nav-item:hover {
+    background: #ff2400;
+    color: #ffe; 
+   } 
+
+.main-center-block {
+    margin: 0 auto;
+    text-align: left;	
+}
+
+.main-center-line {
+	line-height: 20px;
+    color: #616161;
+    font-size: 15px;
+    padding: 0 0 25px 0;
+    margin: 0 0 25px 0;
+    background: url(../img/hello-block-text.jpg) left bottom repeat-x;
+}
+
+.line-films-title2 {
+    background-color: #ff2400;
+    padding: 10px 20px;
+    color: #fff;
+    font-size: 18px;
+    width: 233px:;
+}
+
+.d-inline-flex {
+	background-color: #ff2400;
+	color: #fff;
+}
+
+.card-body {
+	padding: 10px 10px 10px 10px;
+}
+
+.row {
+	width: 1000px;
+	margin-left: 0;
+}
+
+.content-block1 {
+	margin: 0 auto;
+	width: 1000px;
+}
+
+.films {
+	height: 800px;
+}
