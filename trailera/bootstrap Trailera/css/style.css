@@ -126,6 +126,19 @@ i {
 	height: 800px;
 }
 
+.jenre {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.container {
+	width: 300px;
+	height: 100px;
+	background: #666;
+	border-radius: 20px;
+}
+
+
 @keyframes anime-H3 {
 	from {
 		opacity: 0;

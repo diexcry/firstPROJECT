@@ -46,6 +46,18 @@
 	animation: anime-H4 1.6s ease-out;
 }
 
+.jenre {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.container {
+	width: 300px;
+	height: 100px;
+	background: #666;
+	border-radius: 20px;
+}
+
 @keyframes anime-H3 {
 	from {
 		opacity: 0;
@@ -66,4 +78,4 @@
 		opacity: 1;
 		transform: translateX(0);
 	}
-	
+}	
