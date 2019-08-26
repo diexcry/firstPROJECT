@@ -116,7 +116,6 @@ i {
 	width: 1000px;
 	margin-left: 0;
 }
-
 .content-block1 {
 	margin: 0 auto;
 	width: 1000px;
@@ -138,6 +137,31 @@ i {
 	border-radius: 20px;
 }
 
+.jenre a{
+	font-size: 20px;
+	color: white;
+}
+
+.jenre a:hover {
+	color: red;
+	text-decoration: none;
+}
+
+.footer {
+	background: #333;
+	margin-top: 60px;
+	height: 80px;
+}
+
+.footer a{
+	color: #333;
+}
+
+.footer p{
+	padding-top: 56px;
+	margin-bottom: 0;
+	color: #666;
+}
 
 @keyframes anime-H3 {
 	from {
