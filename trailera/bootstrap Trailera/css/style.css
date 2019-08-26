@@ -112,9 +112,18 @@ i {
 	padding: 10px 10px 10px 10px;
 }
 
+.films p {
+	font-size: 12px;
+}
+
 .row {
 	width: 1000px;
 	margin-left: 0;
+}
+
+.card {
+	width: 10rem; 
+	height: 18rem; 
 }
 
 .content-block1 {
